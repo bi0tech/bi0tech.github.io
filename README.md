@@ -1,3 +1,2 @@
-# bi0tech.github.io
-rclone
+# rclone
 document to satisfy google nonsense
